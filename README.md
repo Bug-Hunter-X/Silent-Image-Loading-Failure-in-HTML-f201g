@@ -1,0 +1,1 @@
+This repository demonstrates a subtle HTML bug related to image loading.  The bug involves referencing an image file that doesn't exist. While this might seem trivial, it's crucial to understand how browsers handle such situations.  The provided solution focuses on error handling mechanisms. 
